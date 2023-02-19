@@ -1,0 +1,12 @@
+.on_img {
+  display: block;
+  width: 80%;
+  max-width: 346px;
+  margin: 100px auto 20px auto;
+
+}
+
+.search {
+  display: block;
+  width: 80%;
+}
